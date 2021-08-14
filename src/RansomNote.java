@@ -4,7 +4,7 @@ public class RansomNote {
 	Map<String, Integer> magazineMap;
 	Map<String, Integer> noteMap;
 
-	publi RansomNote(String magazine, String note) {
+	public RansomNote(String magazine, String note) {
 	}
 
 	public boolean solve() {
